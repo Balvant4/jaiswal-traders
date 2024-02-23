@@ -1,5 +1,5 @@
 import React from "react";
-import Boxes from "./Components/Boxes";
+import Boxes from "./Boxes";
 
 const Hero2 = () => {
   return (

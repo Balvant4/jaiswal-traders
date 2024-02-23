@@ -1,5 +1,5 @@
 import React from "react";
-import Textbox from "./components/textbox";
+import Textbox from "./Textbox";
 
 const Hero3 = () => {
   return (
