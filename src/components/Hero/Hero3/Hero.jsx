@@ -1,7 +1,7 @@
 import React from "react";
 import Textbox from "./Textbox";
 
-const Hero3 = () => {
+const Hero = () => {
   return (
     <>
       <div className="dark:bg-black dark:text-white">
@@ -43,4 +43,4 @@ const Hero3 = () => {
   );
 };
 
-export default Hero3;
+export default Hero;
