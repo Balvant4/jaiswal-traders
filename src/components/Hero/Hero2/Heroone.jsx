@@ -1,7 +1,7 @@
 import React from "react";
 import Boxes from "./Boxes";
 
-const Hero = () => {
+const Heroone = () => {
   return (
     <>
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 ">
@@ -46,4 +46,4 @@ const Hero = () => {
   );
 };
 
-export default Hero;
+export default Heroone;
